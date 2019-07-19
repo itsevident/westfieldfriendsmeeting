@@ -1,0 +1,12 @@
+/about-quakers.shtml /about-quakers 301
+/calendar.shtml /calendar 301
+/contact.shtml /contact 301
+/directions.shtml /directions 301
+/history.shtml /history 301
+/index.shtml / 301
+/links.shtml /links 301
+/meeting-times.shtml /meeting-times 301
+/queries.shtml /queries 301
+
+# Redirect default Netlify subdomain to primary domain
+https://westfieldfriendsmeeting.netlify.com/* http://westfieldfriendsmeeting.org/:splat 301!
