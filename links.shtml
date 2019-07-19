@@ -1,0 +1,76 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>Westfield Friends Meeting</title>
+  <link rel="stylesheet" href="main.css" />
+</head>
+
+<body>
+  <div id="main">
+    <div id="header">
+      <p>Westfield Friends Meeting</p>
+      <p>Therefore in the light wait, where unity is &emdash; George Fox</p>
+    </div>
+    <div id="content">
+
+      <div id="left">
+        <ul>
+          <li><a href="index.shtml">Home</a></li>
+          <li><a href="meeting-times.shtml">Meeting Times</a></li>
+          <li><a href="calendar.shtml">Calendar</a></li>
+          <li><a href="directions.shtml">Directions</a></li>
+          <!--<li><a href="committees.shtml">Committees</a></li>-->
+          <li><a href="about-quakers.shtml">About Quakers</a></li>
+          <li><a href="history.shtml">WFM History</a></li>
+          <!--<li><a href="newsletter.shtml">Newsletter</a></li>
+          <li><a href="first-day-school.shtml">First Day School</a></li>-->
+          <li><a href="queries.shtml">Queries</a></li>
+          <li><a href="links.shtml">Quaker Links</a></li>
+          <!--<li><a href="members.shtml">Directory of Members</a></li>-->
+          <li><a href="http://www.westfieldfriends.org/" target="_blank">Westfield Friends School</a></li>
+          <li><a href="contact.shtml">Contact Us</a></li>
+        </ul>
+      </div>
+
+
+      <div id="center">
+        <h1>Links</h1>
+          
+        <p><a href="http://search.yahoo.com/search?p=quakerism&amp;ei=UTF-8&amp;n=20&amp;fl=0&amp;x=wrt" target="_blank">Quakerism</a></p>
+        <p><a href="http://www.pym.org/" target="_blank">Philadelphia Yearly Meeting</a></p>
+        <p><a href="http://www.afsc.org/" target="_blank">American Friends Service Committee</a></p>
+        <!--<p><a href="http://www.quaker.org/penn-house/programming.htm" target="_blank">William Penn House</a></p>-->
+        <p><a href="http://www.pendlehill.org/" target="_blank">Pendle Hill</a></p>
+        <p><a href="http://www.fgcquaker.org/publications/" target="_blank">Quaker Press</a></p>
+        <p><a href="http://www.fgcquaker.org/" target="_blank">Friends General Conference</a></p>
+        <p><a href="http://www.fcnl.org/" target="_blank">Friends Committee on National Legislation</a></p>
+        <!--<p><a href="http://www.quaker.org/fwcc/FWCC.html" target="_blank">Friends World Committee for Consultation</a></p>-->
+        <!--<p><a href="http://www.afsc.org/quno.htm" target="_blank">Quaker United Nations Office</a></p>-->
+        <p><a href="http://www.friendsjournal.org/" target="_blank">Friends Journal</a></p>
+        <!--<p><a href="http://www.pym.org/southern-qm/" target="_blank">Southern Quarter</a></p>-->
+        <p><a href="http://www.quaker.org" target="_blank">Quaker.org</a></p>
+        <p> <a href="http://www.friendsmedia.org/kidsquake/" target="_blank">Website dedicated to children everywhere who are learning about Quakerism</a></p>
+        <p><a href="http://www.quakerquaker.org/" target="_blank">Quaker Quaker (A community of blogs and social media about Friends)</a></p>
+      </div>
+
+      <div id="right">
+      </div>
+
+    </div>
+
+    <div id="footer">
+      <p>
+        2201 Riverton Road at Route 130 
+        <span class="bullet">•</span> 
+        Cinnaminson, NJ 08077 
+        <span class="bullet">•</span> 
+        856-829-7569 
+        <span class="bullet">•</span> 
+        Fax 856-829-7527
+      </p>
+    </div>
+
+  </div>
+</body>
+</html>

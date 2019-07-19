@@ -1,0 +1,134 @@
+* {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #606060;
+}
+body {
+	background-image: url(http://westfieldfriendsmeeting.org/Images/GinkgoBackground3.jpg);
+	background-repeat: repeat;
+	margin: 0 auto;
+}
+a:link {
+	color: #666;
+	text-decoration: underline;
+}
+a:visited {
+	color: #666;
+	text-decoration: underline;
+}
+a:hover {
+	color: #AE541C;
+	text-decoration: underline;
+}
+a:active {
+	color: #666;
+	text-decoration: underline;
+}
+h1 {
+	font-size: 18px;
+}
+h2 {
+	font-size: 16px;
+}
+h3 {
+	font-size: 14px;
+}
+.em {
+	font-style: italic;
+}
+#main {
+	width: 960px;
+	margin: 0 auto;
+}
+#header {
+	background-image: url(http://westfieldfriendsmeeting.org/Images/Header4Top.gif);
+	width: 960px;
+	height: 231px;
+}
+#header p {
+	display: none;
+}
+#content {
+	float: left;
+	background: #C6D6A9;
+}
+#left {
+	float: left;
+	width: 190px;
+	padding: 30px 0;
+}
+#left ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+#left ul li {
+	display: block;
+	padding: 0;
+	margin: 0;
+	text-align: center;
+}
+#left ul li a {
+	line-height: 20px;
+	font-size: 10px;
+	font-style: normal;
+	font-weight: bold;
+	font-variant: normal;
+	color: #666666;
+	text-transform: uppercase;
+	text-decoration: none;
+}
+#center {
+	float: left;
+	width: 500px;
+	padding: 20px 40px;
+	background: white;
+	min-height: 300px;
+}
+#right {
+	float: left;
+	width: 190px;
+}
+#footer {
+	background: #D09E80;
+}
+#footer {
+	background: #D09E80;
+	clear: both;
+	padding-bottom: 10px;
+}
+#footer p {
+	background: white;
+	padding: 10px;
+	text-align: center;
+	font-weight: bold;
+	margin: 0;
+}
+#footer p span.bullet {
+	font-weight: normal;
+}
+.calendar {
+	border-spacing: 0;
+	border-collapse: collapse;
+}
+.calendar td {
+	border: 2px solid gray;
+	padding: 4px;
+	vertical-align: top;
+	width: 14.3%;
+}
+.calendar tbody td * {
+	font-size: 9px;
+}
+.calendar thead tr.days td {
+	background: #C6D6A9;
+	font-weight: bold;
+	text-align: center;
+}
+.calendar thead tr.month td {
+	background: #AE541C;
+	color: white;
+	font-size: 14px;
+	font-weight: bold;
+	text-align: center;
+}
